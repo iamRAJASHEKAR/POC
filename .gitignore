@@ -56,7 +56,6 @@ buck-out
 # Android
 .idea
 .gradle
-local.properties
 *.iml
 /android/build/
 
