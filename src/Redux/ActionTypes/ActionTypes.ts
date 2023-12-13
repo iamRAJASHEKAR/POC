@@ -1,0 +1,6 @@
+// APP ACTION TYPES
+
+export const HIDE_LOADER = 'HIDE_LOADER';
+export const SHOW_LOADER = 'SHOW_LOADER';
+export const PRODUCT_CHOOSEN = 'PRODUCT_CHOOSEN';
+export const PROFILE_DATA = 'PROFILE_DATA';

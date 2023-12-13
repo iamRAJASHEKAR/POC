@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "595cf06c2cd83ab2e0ccd5b74e247f534d139899"
+    },
+    {
+      "path": "src/Assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "a3f5403e26df9e0dfcabd5c17bdf29662fbe96c2"
+    },
+    {
+      "path": "src/Assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "db55f109eb4b0f28fa0a9e18347a506d3ee2240f"
+    }
+  ]
+}
