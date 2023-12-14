@@ -11,6 +11,16 @@ First, you will need **Install pod files** by switching into iOS folder from pro
 To start Metro, run the following command from the _root_ of your React Native project:
 
 ```bash
+Firstly node modules need to be installed with below command
+
+# using npm
+npm i
+
+# OR using Yarn
+yarn 
+
+after installing node modules follow below commands
+
 # using npm
 npm start
 
